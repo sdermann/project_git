@@ -7,4 +7,5 @@ class Greeter
     end 
   end 
   yes
+  no
   
